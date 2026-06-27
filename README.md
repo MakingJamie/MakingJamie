@@ -44,7 +44,8 @@ Budapest, HU · remote since day one · CET
 
 I write about agentic AI, product and growth — building things that last.
 
-<!-- BLOG-POST-LIST:START -->- [I Built an AI Version of My Site to Win AI Citations: Here&#39;s What It Did](https://jamie-murphy.com/blog/2026-05-26-answer-engine-optimisation-experiment)
+<!-- BLOG-POST-LIST:START -->
+- [I Built an AI Version of My Site to Win AI Citations: Here's What It Did](https://jamie-murphy.com/blog/2026-05-26-answer-engine-optimisation-experiment)
 - [Spec-Driven Development: Let the AI Obsess Over the Code](https://jamie-murphy.com/blog/2026-05-25-spec-driven-development-with-ai)
 - [Two Talks That Rewired How I Think About AI](https://jamie-murphy.com/blog/2026-02-25-scaling-growth-agentic-ai-budapest-meetup)
 - [I Built an AI System That Compounds. Here&#39;s What Happened to My App Store Rankings.](https://jamie-murphy.com/blog/2026-02-24-ai-systems-aso-indie-developer)
