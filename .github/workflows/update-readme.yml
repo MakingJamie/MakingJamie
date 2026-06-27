@@ -1,0 +1,32 @@
+name: Update README with latest writing
+
+# Refreshes the list between the BLOG-POST-LIST markers in README.md from the
+# site's Atom feed. Runs daily, on demand, and on push (so the first push seeds
+# it). Commits only when the rendered list actually changes.
+#
+# Security note: no untrusted event input is used anywhere here — there are no
+# `run:` steps and no ${{ github.event.* }} interpolation. The only inputs are
+# the static feed URL and template passed to a pinned third-party action.
+on:
+  schedule:
+    - cron: "0 6 * * *" # daily, 06:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull latest posts from the Atom feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://jamie-murphy.com/atom.xml"
+          max_post_count: 5
+          comment_tag_name: "BLOG-POST-LIST"
+          template: "- [$title]($url)$newline"
+          commit_message: "chore: refresh latest writing"
