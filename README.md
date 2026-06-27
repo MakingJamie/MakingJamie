@@ -92,12 +92,11 @@ Open-source work, pulled live from my public GitHub — newest and most-starred 
 On agentic AI, product and growth — building things that last.
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Version of My Site to Win AI Citations: Here's What It Did](https://jamie-murphy.com/blog/2026-05-26-answer-engine-optimisation-experiment)
+- [I Built an AI Version of My Site to Win AI Citations: Here&#39;s What It Did](https://jamie-murphy.com/blog/2026-05-26-answer-engine-optimisation-experiment)
 - [Spec-Driven Development: Let the AI Obsess Over the Code](https://jamie-murphy.com/blog/2026-05-25-spec-driven-development-with-ai)
 - [Two Talks That Rewired How I Think About AI](https://jamie-murphy.com/blog/2026-02-25-scaling-growth-agentic-ai-budapest-meetup)
-- [I Built an AI System That Compounds. Here's What Happened to My App Store Rankings.](https://jamie-murphy.com/blog/2026-02-24-ai-systems-aso-indie-developer)
-- [I Killed Every Successful Project I Built - Here's Why I Won't Do It Again](https://jamie-murphy.com/blog/2026-01-11-i-killed-every-successful-project)
-<!-- BLOG-POST-LIST:END -->
+- [I Built an AI System That Compounds. Here&#39;s What Happened to My App Store Rankings.](https://jamie-murphy.com/blog/2026-02-24-ai-systems-aso-indie-developer)
+- [I Killed Every Successful Project I Built - Here&#39;s Why I Won&#39;t Do It Again](https://jamie-murphy.com/blog/2026-01-11-i-killed-every-successful-project)<!-- BLOG-POST-LIST:END -->
 
 → **[All writing](https://jamie-murphy.com/blog)** · subscribe by **[Atom](https://jamie-murphy.com/atom.xml)**
 
