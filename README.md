@@ -1,3 +1,12 @@
+```
+     ██╗███╗   ███╗
+     ██║████╗ ████║
+     ██║██╔████╔██║
+██   ██║██║╚██╔╝██║
+╚█████╔╝██║ ╚═╝ ██║
+ ╚════╝ ╚═╝     ╚═╝
+```
+
 ```console
 $ whoami
 Jamie Murphy — Senior Product Manager · AI Builder
