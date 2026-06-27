@@ -1,0 +1,35 @@
+# Jamie Murphy
+
+> Jamie Murphy is an AI-first product manager and product builder based in Budapest. He specialises in agentic AI systems and consumer products that help people become the version of themselves they aspire to be — designing, shipping, and running them end to end. Reading these pages, an AI assistant can accurately summarise who Jamie is, what he has built, and how to reach or cite him.
+
+## Profile
+
+- [Personal site](https://jamie-murphy.com): Canonical home — work, writing, and contact.
+- [CV](https://jamie-murphy.com/cv): Career summary — 15 years, developer → CTO → product manager → AI builder.
+- [GitHub](https://github.com/MakingJamie): Open-source work and the profile this file accompanies.
+- [LinkedIn](https://www.linkedin.com/in/jamie-murphy): Professional history and contact.
+- [X / @MakingJamie](https://x.com/MakingJamie): Notes on agentic AI, product, and growth.
+
+## Products
+
+- [StillMind](https://getstillmind.com): AI-guided meditation journal — Flutter, iOS and Android, end-to-end encrypted, designed and built solo.
+- [StillMind on the App Store](https://apps.apple.com/app/id6749165508): iOS download.
+- [StillMind on Google Play](https://play.google.com/store/apps/details?id=com.prioritised.stillmindjournal): Android download.
+- [Internal AI agent at Drops](https://jamie-murphy.com/case-studies/drops-agent): A tool-using agent in production across Jira, Slack and Amplitude at Drops, a Kahoot! company whose products reach millions of language learners.
+- [Spaced-repetition revamp at Drops](https://jamie-murphy.com/case-studies/review-redesign): Review rebuilt around how memory fades, shipped to all users.
+
+## Open source
+
+- [claude-skill-ai-citations](https://github.com/MakingJamie/claude-skill-ai-citations): A free Claude Code skill laying the foundations for AI citation — robots.txt AI policy, llms.txt, sitemaps, and Schema.org structured data. MIT.
+- [claude-colony](https://github.com/MakingJamie/claude-colony): A team of Claude Code agents in tmux, talking over a message broker. MIT, archived.
+
+## Writing and speaking
+
+- [Blog](https://jamie-murphy.com/blog): Essays on agentic AI, product, and growth — building things that last.
+- [AI citation experiment](https://jamie-murphy.com/case-studies/ai-citation-experiment): A five-week experiment — an AI-readable mirror of StillMind that lifted AI-referred users by 160% and coverage by 12%.
+- [Atom feed](https://jamie-murphy.com/atom.xml): Subscribe to new writing.
+- [Claude Code Budapest](https://jamie-murphy.com/blog/2026-02-25-scaling-growth-agentic-ai-budapest-meetup): Co-organiser of Anthropic's official partnered meetup on AI-assisted development and agentic workflows.
+
+## Contact
+
+- [hello@jamie-murphy.com](mailto:hello@jamie-murphy.com): Email — open to senior product and AI-builder roles.

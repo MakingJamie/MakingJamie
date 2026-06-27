@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Jamie Murphy — AI-first product manager and builder">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#160028"/>
+      <stop offset="55%" stop-color="#3a0c63"/>
+      <stop offset="100%" stop-color="#7a1571"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffe35a"/>
+      <stop offset="42%" stop-color="#ff8a3d"/>
+      <stop offset="78%" stop-color="#ff2e97"/>
+      <stop offset="100%" stop-color="#c81d7a"/>
+    </linearGradient>
+    <linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#eafdff"/>
+      <stop offset="42%" stop-color="#7fe9ff"/>
+      <stop offset="50%" stop-color="#27b6e6"/>
+      <stop offset="51%" stop-color="#ff4fa3"/>
+      <stop offset="100%" stop-color="#ff2e97"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <!-- field -->
+  <rect width="1200" height="340" fill="#0d0221"/>
+  <rect width="1200" height="210" fill="url(#sky)"/>
+
+  <!-- sun with scanline bands -->
+  <g>
+    <circle cx="600" cy="150" r="112" fill="url(#sun)"/>
+    <g fill="#2a0a4d">
+      <rect x="488" y="126" width="224" height="3"/>
+      <rect x="488" y="138" width="224" height="4"/>
+      <rect x="488" y="152" width="224" height="5"/>
+      <rect x="488" y="169" width="224" height="6"/>
+      <rect x="488" y="189" width="224" height="8"/>
+    </g>
+  </g>
+
+  <!-- ground -->
+  <rect x="0" y="210" width="1200" height="130" fill="#08010f"/>
+  <rect x="0" y="206" width="1200" height="6" fill="#ff2e97" filter="url(#softglow)" opacity="0.7"/>
+  <rect x="0" y="208" width="1200" height="2" fill="#00f0ff"/>
+
+  <!-- perspective grid -->
+  <g stroke="#ff2e97" stroke-width="1.4" opacity="0.55">
+    <line x1="-360" y1="340" x2="600" y2="210"/>
+    <line x1="-160" y1="340" x2="600" y2="210"/>
+    <line x1="40"   y1="340" x2="600" y2="210"/>
+    <line x1="240"  y1="340" x2="600" y2="210"/>
+    <line x1="420"  y1="340" x2="600" y2="210"/>
+    <line x1="600"  y1="340" x2="600" y2="210"/>
+    <line x1="780"  y1="340" x2="600" y2="210"/>
+    <line x1="960"  y1="340" x2="600" y2="210"/>
+    <line x1="1160" y1="340" x2="600" y2="210"/>
+    <line x1="1360" y1="340" x2="600" y2="210"/>
+    <line x1="1560" y1="340" x2="600" y2="210"/>
+  </g>
+  <g stroke="#00f0ff" stroke-width="1.2" opacity="0.42">
+    <line x1="0" y1="214" x2="1200" y2="214"/>
+    <line x1="0" y1="220" x2="1200" y2="220"/>
+    <line x1="0" y1="229" x2="1200" y2="229"/>
+    <line x1="0" y1="242" x2="1200" y2="242"/>
+    <line x1="0" y1="260" x2="1200" y2="260"/>
+    <line x1="0" y1="284" x2="1200" y2="284"/>
+    <line x1="0" y1="315" x2="1200" y2="315"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="600" y="170" text-anchor="middle" font-family="'Arial Black','Arial',sans-serif"
+        font-size="132" font-weight="800" letter-spacing="8"
+        fill="url(#chrome)" stroke="#0d0221" stroke-width="2" filter="url(#glow)">JAMIE</text>
+
+  <!-- subtitle -->
+  <text x="600" y="199" text-anchor="middle" font-family="'Courier New',monospace"
+        font-size="18" font-weight="700" letter-spacing="8" fill="#00f0ff" filter="url(#glow)">AI-FIRST PRODUCT · BUILDER</text>
+</svg>

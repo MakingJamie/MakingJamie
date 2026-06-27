@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://jamie-murphy.com/#person",
+      "name": "Jamie Murphy",
+      "givenName": "Jamie",
+      "familyName": "Murphy",
+      "url": "https://jamie-murphy.com",
+      "jobTitle": "AI-first Product Manager / Product Builder",
+      "description": "AI-first product manager and product builder specialising in agentic AI systems and consumer products that help people become the version of themselves they aspire to be.",
+      "email": "mailto:hello@jamie-murphy.com",
+      "homeLocation": { "@type": "Place", "name": "Budapest, Hungary" },
+      "knowsAbout": [
+        "AI-first product management",
+        "Agentic AI systems",
+        "Growth and monetisation",
+        "Generative engine optimisation (GEO/AEO) and AI citation",
+        "Consumer product development",
+        "Spaced repetition and learning science"
+      ],
+      "sameAs": [
+        "https://jamie-murphy.com",
+        "https://github.com/MakingJamie",
+        "https://www.linkedin.com/in/jamie-murphy",
+        "https://x.com/MakingJamie"
+      ],
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Drops (a Kahoot! company)",
+        "url": "https://languagedrops.com"
+      },
+      "subjectOf": [
+        { "@id": "https://getstillmind.com/#app" },
+        { "@id": "https://jamie-murphy.com/case-studies/ai-citation-experiment#project" },
+        { "@id": "https://jamie-murphy.com/case-studies/drops-agent#project" }
+      ]
+    },
+    {
+      "@type": "MobileApplication",
+      "@id": "https://getstillmind.com/#app",
+      "name": "StillMind",
+      "applicationCategory": "HealthApplication",
+      "operatingSystem": "iOS, Android",
+      "description": "AI-guided meditation journal — Flutter, end-to-end encrypted. Designed and built solo by Jamie Murphy.",
+      "url": "https://getstillmind.com",
+      "author": { "@id": "https://jamie-murphy.com/#person" },
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+      "downloadUrl": [
+        "https://apps.apple.com/app/id6749165508",
+        "https://play.google.com/store/apps/details?id=com.prioritised.stillmindjournal"
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://jamie-murphy.com/case-studies/ai-citation-experiment#project",
+      "name": "AI citation experiment",
+      "description": "A five-week experiment: an AI-readable mirror of StillMind shipped beside the human site, which lifted AI-referred users by 160% and coverage by 12%.",
+      "url": "https://jamie-murphy.com/case-studies/ai-citation-experiment",
+      "author": { "@id": "https://jamie-murphy.com/#person" }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://jamie-murphy.com/case-studies/drops-agent#project",
+      "name": "Internal AI agent at Drops",
+      "description": "A tool-using agent wired into Jira, Slack, Amplitude and more — four modes, 17 on-demand skills, a daily anomaly pulse. In production at Drops, a Kahoot! company whose products reach millions of language learners.",
+      "url": "https://jamie-murphy.com/case-studies/drops-agent",
+      "author": { "@id": "https://jamie-murphy.com/#person" }
+    }
+  ]
+}
