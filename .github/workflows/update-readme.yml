@@ -17,6 +17,13 @@ on:
 permissions:
   contents: write
 
+# Serialise runs so a scheduled run can never race a push-triggered run to the
+# same `git push` (that race produced a non-fast-forward rejection). Queue the
+# newer run instead of cancelling — we don't want to drop a refresh.
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
