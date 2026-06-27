@@ -28,5 +28,8 @@ jobs:
           feed_list: "https://jamie-murphy.com/atom.xml"
           max_post_count: 5
           comment_tag_name: "BLOG-POST-LIST"
-          template: "- [$title]($url)$newline"
+          # Lead each item with the newline (not trail it) so the first post
+          # drops onto its own line below the START marker — otherwise the
+          # action glues item #1 to the marker and it won't render as a bullet.
+          template: "$newline- [$title]($url)"
           commit_message: "chore: refresh latest writing"
