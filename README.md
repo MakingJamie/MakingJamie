@@ -56,9 +56,9 @@ Budapest, HU · remote since day one · CET
 ---
 
 ```
-░█▀▀░▀█▀░▀█▀░█░░░█░░░█▄█░▀█▀░█▀█░█▀▄
-░▀▀█░░█░░░█░░█░░░█░░░█░█░░█░░█░█░█░█
-░▀▀▀░░▀░░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀░▀▀░
+╔═╗┌┬┐┬┬  ┬  ╔╦╗┬┌┐┌┌┬┐
+╚═╗ │ ││  │  ║║║││││ ││
+╚═╝ ┴ ┴┴─┘┴─┘╩ ╩┴┘└┘─┴┘
 ```
 
 **My product — AI-guided meditation & journaling, built and shipped solo, end to end.**
@@ -88,9 +88,9 @@ Budapest, HU · remote since day one · CET
 ---
 
 ```
-░█▀▄░█▀▀░█▀█░█▀█░█▀▀░▀█▀░▀█▀░█▀█░█▀▄░▀█▀░█▀▀░█▀▀
-░█▀▄░█▀▀░█▀▀░█░█░▀▀█░░█░░░█░░█░█░█▀▄░░█░░█▀▀░▀▀█
-░▀░▀░▀▀▀░▀░░░▀▀▀░▀▀▀░▀▀▀░░▀░░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀▀▀
+╦═╗┌─┐┌─┐┌─┐┌─┐┬┌┬┐┌─┐┬─┐┬┌─┐┌─┐
+╠╦╝├┤ ├─┘│ │└─┐│ │ │ │├┬┘│├┤ └─┐
+╩╚═└─┘┴  └─┘└─┘┴ ┴ └─┘┴└─┴└─┘└─┘
 ```
 
 Open-source work, pulled live from my public GitHub — newest and most-starred first.
@@ -104,9 +104,9 @@ Open-source work, pulled live from my public GitHub — newest and most-starred 
 ---
 
 ```
-░█░█░█▀▄░▀█▀░▀█▀░▀█▀░█▀█░█▀▀
-░█▄█░█▀▄░░█░░░█░░░█░░█░█░█░█
-░▀░▀░▀░▀░▀▀▀░░▀░░▀▀▀░▀░▀░▀▀▀
+╦ ╦┬─┐┬┌┬┐┬┌┐┌┌─┐
+║║║├┬┘│ │ │││││ ┬
+╚╩╝┴└─┴ ┴ ┴┘└┘└─┘
 ```
 
 On agentic AI, product and growth — building things that last.
