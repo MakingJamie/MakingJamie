@@ -101,8 +101,8 @@ Open-source work, pulled live from my public GitHub — newest and most-starred 
 
 <!-- REPO-LIST:START -->
 - **[claude-colony](https://github.com/MakingJamie/claude-colony)** — Multi-agent Claude Code you can actually control. Spawn specialist teams in tmux, watch them work side-by-side, steer when needed. Built on native Claude Code agents. No black boxes. `TypeScript · ★ 12`
+- **[claude-skill-ai-citations](https://github.com/MakingJamie/claude-skill-ai-citations)** — A free Claude Code skill that sets up your website's AI-citation foundations — llms.txt, robots.txt AI-crawler policy, sitemap, and Schema.org. `Markdown · ★ 2`
 - **[apple-ads-mcp-agent](https://github.com/MakingJamie/apple-ads-mcp-agent)** — Autonomous Apple Search Ads manager: a Claude agent + MCP server + skill, with PKEI-scored bid optimization and human-approval gates. `TypeScript · ★ 1`
-- **[claude-skill-ai-citations](https://github.com/MakingJamie/claude-skill-ai-citations)** — A free Claude Code skill that sets up your website's AI-citation foundations — llms.txt, robots.txt AI-crawler policy, sitemap, and Schema.org. `Markdown`
 <!-- REPO-LIST:END -->
 
 ---
